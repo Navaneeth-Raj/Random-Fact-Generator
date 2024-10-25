@@ -3,6 +3,13 @@
     padding: 0px;
     box-sizing: border-box;
 }
+header {
+    height: 150px;
+    margin: 0px;
+    background-color:rgba(86, 86, 86,0.451);
+    padding-top:23px ;
+}
+
 
 body{
     background-image:url(images/bgimg.jpg);
@@ -13,12 +20,7 @@ body{
     margin: 0px;
     box-sizing: border-box;
 }
-header{
-    height: 100px;
-    background-color:#164435 ;
-    margin: 0px;
-    
-}
+
 #welcome{
     color: rgb(179, 209, 185);
     margin: 0px;
@@ -26,9 +28,12 @@ header{
     font-size: 3em;
     letter-spacing: 2px;
     text-shadow: 4px 4px rgb(25, 118, 25);
+    opacity:1;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .headerword{
     padding-top: 20px;
+    opacity:1;
 }
 .navigation{
     height: 50px;
@@ -42,6 +47,7 @@ a{
     text-decoration: none;
     color: white;
     cursor: pointer;
+    font-weight:bold;
 }
 #gen-button{
     display: grid;
@@ -55,7 +61,7 @@ a{
     margin-top: 16%;
     font-size: 30px;
     color:  rgb(179, 209, 185);
-    cursor: pointer;
+    cursor: pointer;   
 }
 button{
     margin: auto;
@@ -66,4 +72,10 @@ button{
 }
 .navigation a:hover{
      background-color: green;
+}
+p{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    
 }
