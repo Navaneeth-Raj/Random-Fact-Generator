@@ -47,7 +47,7 @@ cd Random-Fact-Generator
 flask run  
 
 ### Project Documentation
-For Software:
+For Software:https://github.com/Navaneeth-Raj/Random-Fact-Generator/blob/main/Useless%20Facts%20Generator%20Project.docx
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
