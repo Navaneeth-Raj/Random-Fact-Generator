@@ -62,8 +62,8 @@ About page shows the details of the project and team members.
 <img width="1280" alt="about" src="https://github.com/Navaneeth-Raj/Random-Fact-Generator/raw/main/static/images/About.png">
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+<img width="1280" alt="about" src="https://github.com/Navaneeth-Raj/Random-Fact-Generator/raw/main/static/images/WorkFlow.jpeg">
+The Random Fact Generator project workflow starts with the user clicking a button in their browser (HTML & CSS), which triggers JavaScript to request a fact from the Flask backend. Flask, running on Python, either fetches the fact from an external API or retrieves it from a database (if used). The fact is then sent back and displayed on the browser, completing the interaction.
 
 ### Project Demo
 # Video
