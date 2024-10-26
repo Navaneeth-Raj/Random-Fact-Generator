@@ -50,14 +50,16 @@ flask run
 For Software:https://github.com/Navaneeth-Raj/Random-Fact-Generator/blob/main/Useless%20Facts%20Generator%20Project.docx
 
 # Screenshots (Add at least 3)
-<img width="1280" alt="HomePage" src="https://github.com/Navaneeth-Raj/Random-Fact-Generator/blob/main/static/images/Home.png">
 Home page with the random generated fact.
+<img width="1280" alt="home" src="https://github.com/Navaneeth-Raj/Random-Fact-Generator/raw/main/static/images/Home.png">
 
-<img width="1280" alt="readme-banner" src="https://github.com/Navaneeth-Raj/Random-Fact-Generator/blob/main/static/images/Highlight.png">
+
 Highlights page with the generated fact for the week.
+<img width="1280" alt="highlight" src="https://github.com/Navaneeth-Raj/Random-Fact-Generator/raw/main/static/images/Highlight.png">
 
-<img width="1280" alt="readme-banner" src="https://github.com/Navaneeth-Raj/Random-Fact-Generator/blob/main/static/images/About.png"> 
+
 About page shows the details of the project and team members.
+<img width="1280" alt="about" src="https://github.com/Navaneeth-Raj/Random-Fact-Generator/raw/main/static/images/About.png">
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
