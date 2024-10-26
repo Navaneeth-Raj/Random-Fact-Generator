@@ -50,13 +50,13 @@ flask run
 For Software:https://github.com/Navaneeth-Raj/Random-Fact-Generator/blob/main/Useless%20Facts%20Generator%20Project.docx
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+<img width="1280" alt="HomePage" src="https://github.com/Navaneeth-Raj/Random-Fact-Generator/blob/main/static/images/Home.png">
 Home page with the random generated fact.
 
-![Screenshot2](Add screenshot 2 here with proper name)
+<img width="1280" alt="readme-banner" src="https://github.com/Navaneeth-Raj/Random-Fact-Generator/blob/main/static/images/Highlight.png">
 Highlights page with the generated fact for the week.
 
-![Screenshot3](Add screenshot 3 here with proper name)  
+<img width="1280" alt="readme-banner" src="https://github.com/Navaneeth-Raj/Random-Fact-Generator/blob/main/static/images/About.png"> 
 About page shows the details of the project and team members.
 
 # Diagrams
