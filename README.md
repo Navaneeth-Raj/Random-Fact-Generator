@@ -51,13 +51,13 @@ For Software:https://github.com/Navaneeth-Raj/Random-Fact-Generator/blob/main/Us
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+Home page with the random generated fact.
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+Highlights page with the generated fact for the week.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3](Add screenshot 3 here with proper name)  
+About page shows the details of the project and team members.
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -65,8 +65,8 @@ For Software:https://github.com/Navaneeth-Raj/Random-Fact-Generator/blob/main/Us
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+Video URL : https://github.com/Navaneeth-Raj/Random-Fact-Generator/blob/main/static/images/Video%20Demo.mp4
+The Video demonstrates the three pages of the Fact Generator Project. Home page features the button which on click, produces the Fact. Highlights page shows the Fact for the Week and About page shows some details of the project and team members.
 
 ## Team Contributions
 - Sidharth P Krishnan : Development on Home, Highlights Pages and Javascript Functions.
