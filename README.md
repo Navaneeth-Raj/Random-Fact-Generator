@@ -26,20 +26,25 @@ The solution is built using a Python backend to fetch random, quirky facts from 
 For Software:
 - Languages Used : HTML/CSS, Python, MySQL
 - Frameworks Used : Flask
-- Libraries Used : Flask, mysql-connector-python, requests
+- Libraries Used : Flask, requests
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Device : Any modern device that can support a web browser.
+- Memory : Recommended RAM of 2GB
+- Storage : Free space of 2MB
 
 ### Implementation
-For Software:
+The Fact Generator uses Flask to handle routes and API requests. Facts are fetched from an external API (https://uselessfacts.jsph.pl/random.json) and displayed in the browser. Users can view a weekly fact and request additional random facts with a button click.
 # Installation
-[commands]
+On Command Prompt
+git clone https://github.com/Navaneeth-Raj/Random-Fact-Generator
+pip install requests
+pip install Flask
 
 # Run
-[commands]
+On command prompt:
+cd Random-Fact-Generator
+flask run
 
 ### Project Documentation
 For Software:
@@ -58,37 +63,15 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
-
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Sidharth P Krishnan : Development on Home, Highlights Pages and Javascript Functions.
+- Pranav Varma : Creative Lead, Development on About Page.
+- Navaneeth Raj R : Development on Flask Backend.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
