@@ -36,15 +36,15 @@ For Hardware:
 ### Implementation
 The Fact Generator uses Flask to handle routes and API requests. Facts are fetched from an external API (https://uselessfacts.jsph.pl/random.json) and displayed in the browser. Users can view a weekly fact and request additional random facts with a button click.
 # Installation
--On Command Prompt
--git clone https://github.com/Navaneeth-Raj/Random-Fact-Generator
--pip install requests
--pip install Flask
+On Command Prompt :  
+git clone https://github.com/Navaneeth-Raj/Random-Fact-Generator  
+pip install requests  
+pip install Flask  
 
 # Run
--On command prompt:
--cd Random-Fact-Generator
--flask run
+On command prompt:  
+cd Random-Fact-Generator  
+flask run  
 
 ### Project Documentation
 For Software:
