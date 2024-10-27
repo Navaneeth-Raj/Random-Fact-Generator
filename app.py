@@ -15,7 +15,7 @@ def home_display():
 def about_display():
     return render_template("about.html")
 
-@app.route("/generated-fact") 
+"""@app.route("/generated-fact") 
 def random_fact():
     url = "https://uselessfacts.jsph.pl/random.json?language=en"
     try:
@@ -27,7 +27,7 @@ def random_fact():
         return jsonify(fact="Failed to Retrieve Data. Try Again :("), 500
     except requests.exceptions.RequestException as e:
         return jsonify(fact=f"An error occurred: {str(e)}"), 500  
-
+"""
 def get_ftw():
     url = "https://uselessfacts.jsph.pl/random.json?language=en"
     try:
