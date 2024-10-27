@@ -51,15 +51,15 @@ For Software:https://github.com/Navaneeth-Raj/Random-Fact-Generator/blob/main/Us
 
 # Screenshots (Add at least 3)
 Home page with the random generated fact.
-<img width="1280" alt="home" src="https://github.com/Navaneeth-Raj/Random-Fact-Generator/raw/main/static/images/Home.png">
+<img width="1280" alt="about" src="https://github.com/Navaneeth-Raj/Navaneeth-Raj/raw/main/Home.png">
 
 
 Highlights page with the generated fact for the week.
-<img width="1280" alt="highlight" src="https://github.com/Navaneeth-Raj/Random-Fact-Generator/raw/main/static/images/Highlight.png">
+<img width="1280" alt="about" src="https://github.com/Navaneeth-Raj/Navaneeth-Raj/raw/main/Highlight.png">
 
 
 About page shows the details of the project and team members.
-<img width="1280" alt="about" src="https://github.com/Navaneeth-Raj/Random-Fact-Generator/raw/main/static/images/About.png">
+<img width="1280" alt="about" src="https://github.com/Navaneeth-Raj/Navaneeth-Raj/raw/main/About.png">
 
 # Diagrams
 <img width="1280" alt="about" src="https://github.com/Navaneeth-Raj/Random-Fact-Generator/raw/main/static/images/WorkFlow.jpeg">
@@ -67,7 +67,7 @@ The Random Fact Generator project workflow starts with the user clicking a butto
 
 ### Project Demo
 # Video
-Video URL : https://github.com/Navaneeth-Raj/Random-Fact-Generator/blob/main/static/images/Video%20Demo.mp4
+Video URL : https://github.com/Navaneeth-Raj/Navaneeth-Raj/blob/main/Video%20Demo.mp4
 The Video demonstrates the three pages of the Fact Generator Project. Home page features the button which on click, produces the Fact. Highlights page shows the Fact for the Week and About page shows some details of the project and team members.
 
 ## Team Contributions
