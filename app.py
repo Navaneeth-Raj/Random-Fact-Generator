@@ -43,6 +43,3 @@ ftw = get_ftw()
 @app.route("/highlights")
 def highlight_display():
     return render_template("highlight.html", ftw=ftw)
-
-if __name__ == "__main__":
-    app.run(debug=True)
